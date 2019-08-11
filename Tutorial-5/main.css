@@ -1,0 +1,99 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: Black;
+      font-family: "Helvetica";
+
+}
+
+.header{
+    max-width: 500px;
+    margin: 50px auto;
+    background-color: white;
+    font-size: 3vw;
+
+}
+
+.content, .flash-cards, .table{
+    max-width: 1200px;
+    background-color: white;
+    padding: 50px;
+    margin: 0 auto;
+    font-size: 5vw;
+}
+
+.card{
+    padding: 25px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.card-1{
+    background-color: black;
+    margin-bottom: 50px;
+    font-family: "Helvetica";
+    font-size: 4vw;
+    color: white;
+}
+
+.card-2{
+  background-color: black;
+  margin-bottom: 50px;
+  font-family: "Helvetica";
+  font-size: 4vw;
+  color: white;
+}
+
+.card-3{
+  background-color: black;
+  margin-bottom: 50px;
+  font-family: "Helvetica";
+  font-size: 4vw;
+  color: white;
+}
+
+.table{
+    max-width: 850px;
+    background-color: darkblue;
+    margin-bottom: 50px;
+    font-family: "Helvetica";
+    font-size: 5vw;
+    color: white;
+
+}
+
+.main-page{
+    background-color: dark ;
+    padding: 15px;
+}
+
+.secondary-page{
+
+}
+
+.section-1{
+
+    font-family: "Helvetica";
+    font-size: 3vw;
+    background-bordder: darkblue;
+    color: white;
+}
+
+.section-2{
+
+  font-family: "Helvetica";
+  font-size: 3vw;
+  background-color: darkblue;
+  color: white;
+
+
+}
+
+.section-3{
+
+  font-family: "Helvetica";
+  font-size: 3vw;
+  background-color: darkblue;
+  color: white;
+
+}
